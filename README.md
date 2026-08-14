@@ -86,7 +86,7 @@ I'm Ayush Shankar, currently an undergraduate student at [MSIT](https://msit.in/
 
 ![Peek 2020-07-09 15-53](https://github.com/Ayush23Dash/Ayush23Dash/blob/master/assets/Gitreadme.gif)
 # 💫 About Me:
-GSoC'23 @ <a href = "https://processingfoundation.org/" target="_blank">@Processing Foundation</a> || Associate Software Engineer <a href="https://www.groundtruth.com/" target="_blank">@GroundTruth</a>(<a href="https://www.weatherbug.com/">WeatherBug</a>)<br>
+SDE 2 <a href="https://www.microsoft.com/" target="_blank">@Microsoft</a> || GSoC'23 @ <a href = "https://processingfoundation.org/" target="_blank">@Processing Foundation</a> || Ex Engineering <a href="https://www.groundtruth.com/" target="_blank">@GroundTruth</a>(<a href="https://www.weatherbug.com/">WeatherBug</a>)<br>
 I'm Ayush Shankar, a Bachelor's Degree passout from MSIT. I'm passionate about backend and frontend technologies. I also love contributing to open source.<br>
 
 
