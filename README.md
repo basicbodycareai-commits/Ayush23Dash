@@ -112,7 +112,7 @@ I'm Ayush Shankar, a Bachelor's Degree passout from MSIT. I'm passionate about b
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayush23dash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- ### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme.
 <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
